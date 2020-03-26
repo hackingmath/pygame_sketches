@@ -1,3 +1,8 @@
+"""Cloning Matt Henderson's sketch
+https://twitter.com/matthen2/status/1242357545051623431
+March 26, 2020
+"""
+
 import pygame
 from pygame.locals import *
 from math import pi,sin,cos
