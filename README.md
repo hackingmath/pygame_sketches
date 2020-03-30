@@ -5,3 +5,5 @@ from Processing</br>
 <img src='circle_star.gif'>
 </br>
 <img src='Rotating_Lines.gif'>
+</br>
+<img src='binary_grid_switch.gif'>
